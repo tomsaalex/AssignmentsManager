@@ -1,0 +1,2 @@
+class EmptyRepositoryError(Exception):
+    pass

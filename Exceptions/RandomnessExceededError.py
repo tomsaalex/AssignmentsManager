@@ -1,0 +1,2 @@
+class RandomnessExceededError(Exception):
+    pass
